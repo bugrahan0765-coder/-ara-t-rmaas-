@@ -69,3 +69,8 @@ Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → b
   3. Persona yasağını fazla geniş uyguladım. Yasak olan sahte tanıklık. Şeffaf temalı niş sayfalar serbest.
   4. Taban oranı yanlış yerde kullandım.
   - Organik model = hacim × vuruş dağılımı. Adaylar bu modelle yeniden skorlanacak.
+
+## Fırsat araştırması v3 (12 Eki 2026): 4 bağımsız araştırmacı
+- Sonuç: Hepsi KOŞULLU. Bible Stories Illustrated 69, Vize Koçu (TR) 65, UK meal deal + GLP-1 64, alkol azaltma koçu DE/FR 64. "Kesin büyük fırsat" masa başında kanıtlanamıyor. Detay: `arastirma/FIRSAT-v3-sentez.md`.
+- Yakınsayan bulgular: Şeffaf yüzsüz BİLGİ içeriği çalışıyor (Reframe medyan 110,7k, Bible Instant 25k, StokDrop 24,5k). Persona kategorileri (kalori, görünüş, ilişki) kısıt dışı. TR ana pazar olarak zayıf (en fazla test pazarı). Değer Tarayıcı'nın 73 puanı geçersiz.
+- Öneri: Çok kollu 14 günlük kodsuz test (A: İncil hikâyeleri EN, B: alkol azaltma DE, C: UK meal deal + GLP-1). Eşikler FIRSAT-v3-sentez.md'de.
