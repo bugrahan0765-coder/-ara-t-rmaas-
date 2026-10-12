@@ -78,3 +78,71 @@ Sınırlar:
 - Handle tahmini yanlış hesaba denk gelebilir. Tabloda bio linki doğrulanmış olanlar ✅ ile işaretli.
 - Kalp sayısı hesabın tüm zamanlardaki toplamı. Silinmiş videolar oranı şişirebilir (NeatEat: 5 görünür video).
 - Liste sırası tek bir günün anlık görüntüsü.
+
+---
+
+## 6. Düzeltme: Soru "Opus" değil "Apify" anahtarıydı
+
+Bölüm 4 Anthropic API anahtarını anlatıyor. Kullanıcının asıl sorusu **Apify** idi. Apify, hazır scraper'ların (Actor) çalıştırıldığı bir platform.
+
+**Apify'ın TikTok için sundukları** (Apify Store API'sinden çekildi, 12 Eki 2026):
+
+| Actor | Son 30 günde kullanıcı | Puan | Ücretsiz plan fiyatı |
+|---|---|---|---|
+| clockworks/tiktok-scraper (video, hashtag, arama, profil) | 27.933 | 4,76 | Sonuç başına $0,0037 (~$3,7 / 1.000 video) |
+| clockworks/tiktok-profile-scraper | 8.849 | 4,73 | Sonuç başına $0,003 |
+| clockworks/tiktok-comments-scraper | 4.703 | 4,73 | Yorum başına $0,00125 |
+| clockworks/tiktok-hashtag-scraper | 1.640 | 4,92 | Eşdeğer |
+
+- **Planlar:** Ücretsiz plan her ay $5 kullanım kredisi veriyor. Starter planı $19/ay ($19 kredi dahil). Ücretli planlarda sonuç başına fiyat düşüyor (Bronze $0,003).
+- **Anahtar gerekir mi?** Apify'ı kullanmak için **evet**. Token olmadan API `402` dönüyor.
+- **Mevcut radar için hayır:** Profil sayıları (takipçi, kalp, video) curl ile zaten alınıyor.
+
+**Apify'ın bize kazandıracakları** (curl ile yapamadıklarımız):
+1. **Anahtar kelime ve hashtag araması.** Örnek: "meal planner app", "#appsyouneed", "calorie deficit mcdonalds" ile viral videoları bulmak. Asıl "trend keşfi" budur. Hashtag ve discover sayfaları curl ile kapalı.
+2. **Video bazında izlenme ve tarih** (`playCount`, `createTime`). Profil HTML'i video listesini vermiyor.
+3. **Yorumlar.** Satın alma niyetini ölçmek için gerekli (bölüm 7).
+
+**Tahmini maliyet:** Haftada 50 profil × 30 video (1.500 sonuç) ve 2.000 yorum. Ücretsiz plan fiyatıyla haftada ~$8, ayda **~$30-35.** Ayda bir yapılırsa ücretsiz kredi çoğunlukla yeter.
+
+**Hukuk notu:** Herkese açık veriyi araştırma amaçlı toplamak yaygın bir uygulama, ama TikTok kullanım şartlarına göre gri alan. Toplanan içeriği yeniden yayınlama, sadece toplu metrik kullan.
+
+**Kurulum:** Token sohbete yapıştırılmaz. Ortam ayarlarına `APIFY_TOKEN` olarak eklenir.
+
+## 7. İzlenme satış demek değil: dönüşüm filtresi
+
+Çok izlenen bir içerik indirmeye, indirme de ödemeye dönüşmeyebilir. Bu yüzden radara **para kazanma kontrolü** ekledim:
+
+**A. Top grossing ile top free sırasının karşılaştırması.** Uygulama kazanç listesinde, indirme listesindekinden daha yukarıdaysa indirmeyi paraya iyi çeviriyor demektir. Bu Apple'ın kendi verisi, tahmin değil (ancak sadece sıra veriyor, tutar vermiyor).
+
+**B. Değerlendirme başına beğeni.** Toplam TikTok beğenisi bölü (ABD + GB değerlendirme sayısı). Düşük olması, ilginin indirmeye dönüştüğünü gösterir. Bir vekil (proxy) metrik.
+
+**C. Yorumlarda niyet oranı** (Apify gerekir). "Uygulamanın adı ne?", "link?", "indirdim", "kaç para?" gibi yorumların tüm yorumlara oranı. Eğlence yorumları ("lol", "so aesthetic") dönüşüm getirmez.
+
+**Sonuçlar (12 Eki 2026, Apple RSS ve iTunes Lookup):**
+
+| Uygulama | Top free | **Top grossing** | Değerlendirme (ABD + GB) | Toplam kalp (yaklaşık) | **Kalp / değerlendirme** | Yorum |
+|---|---|---|---|---|---|---|
+| **Herbi** | GB Food #13 | **GB Food #3**, ABD #62 | 238 | ~965k | ~4.050 | ✅ **İndirmeyi paraya çok iyi çeviriyor.** Kazanç sırası indirme sırasından 10 basamak yukarıda |
+| **NeatEat** | ABD Food #9 | **ABD Food #5**, GB #26 | 877 | ~412k | ~470 | ✅ İyi dönüşüm. Kazanç sırası indirme sırasından yukarıda |
+| **WayShot** | ABD Photo #17 | ABD Photo #47 | 2.277 | **~18,4M** | **~8.080** | ⚠️ **Çok viral, ama zayıf para.** Kazanç sırası indirme sırasından 30 basamak aşağıda. Beğenisi yüksek, dönüşümü düşük: "eğlence" etkileşimi |
+| Sporecast | GB Edu #45 | GB Edu #48 | 384 | ~48k | ~125 | Küçük ama dengeli |
+| MenuFit | ABD Health #20 | ABD Health #47 | 54.834 | ~142k (kendi hesabı) | ~2,6 | Dönüşüm kendi hesabından gelmiyor, creator'lardan geliyor |
+| Cal AI (kıyas) | ABD Health #9 | ABD Health #12 | 396.843 | — | — | Olgun, dengeli |
+
+**Çıkarımlar:**
+- **Kullanıcının uyarısı veriyle doğrulandı.** WayShot en viral hesap (video başına ~90k kalp) ama kazanç sırası indirme sırasının çok gerisinde. Estetik ve eğlence içeriği izlenir, ödemeye pek dönüşmez.
+- **Yemek planlama tarafında ise izlenme gerçekten satışa dönüşüyor.** Herbi GB Food kazanç listesinde 3. sırada (ilk 4 ayında). NeatEat ABD'de 5. sırada. Bu iki uygulama "problem çözen + abonelikli" yemek kategorisinde. **Bu, yemek nişimiz için şimdiye kadarki en güçlü organik dönüşüm kanıtı.**
+- Kural olarak radarda bir uygulama sadece **iki koşulu birlikte** sağlarsa "kazanan" sayılacak:
+  1. Kalp/video > 5.000 (organik yayılma).
+  2. Kazanç sırası, indirme sırasından ≤ 10 basamak daha kötü veya ondan daha iyi (para kazanma).
+- **Sınırlar:**
+  - Grossing sırası tutar vermez.
+  - Değerlendirme sayısı, uygulamanın değerlendirme isteme sıklığına göre değişir.
+  - Kalp toplamı silinen videoları içerebilir.
+  - Kesin dönüşüm için tek doğrulanmış kaynak TrustMRR, ya da kendi testimizde bekleme listesi ve ön sipariş oranı.
+
+## 8. Kendi testimize etkisi
+14 günlük test paketi zaten izlenmeyi değil **dönüşümü** ölçüyor (500+ bekleme listesi, %3+ ön sipariş). Yeni eklenenler:
+- Her gönderide **yorum niyet oranı** kaydedilecek (yorumların kaçı "uygulama ne?" ya da "link?").
+- Takip edilecek oran: izlenme → profil ziyareti → link tıklaması → kayıt. 50k izlenme alıp 0 kayıt getiren format "WayShot tipi" (eğlence) sayılır ve bırakılır.

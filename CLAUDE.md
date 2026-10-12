@@ -24,7 +24,9 @@ Bu repo, kullanıcının agentic AI ile para kazanma araştırmasının kalıcı
 6. Arama talebi: `suggestqueries.google.com` otomatik tamamlama ("is there an app that…"). Google Trends 429 veriyor.
 7. TikTok profil sayıları: `tiktok.com/@handle` HTML içinde followerCount, heartCount, videoCount. Hashtag ve discover sayfaları çalışmıyor.
 8. **TikTok organik radar** (`araclar/tiktok-radar-*.py`): Kategori top free listeleri (ABD, GB) → genç uygulamalar → TikTok hesabı → kalp/video oranı. Oran 5k'dan büyükse organik trend adayıdır. Listede üst sırada olup TikTok'ta boş olan uygulamalar ücretli edinimle büyüyordur. App Store yorumlarında 'tiktok' aramak işe yaramıyor. Creative Center ve Ad Library sadece tarayıcıda, elle kullanılabiliyor. Detay: `arastirma/tiktok-trend-uygulama-bulma-yontemleri.md`
-9. API anahtarı: Araştırma için gerekmez. Otomatik radar için Claude Code rutini yeterli. Kendi sunucunda LLM kullanacaksan `ANTHROPIC_API_KEY` gerekir.
+9. **İzlenme satış demek değil.** Dönüşüm kontrolü: top grossing sırasını top free sırasıyla karşılaştır, kalp/değerlendirme oranına bak, yorumlarda niyet oranını ölç. Kazanan = kalp/video > 5k **ve** grossing sırası free sırasından en fazla 10 basamak kötü. Karşı örnek: WayShot (çok viral, zayıf gelir).
+10. **Apify** (kullanıcının sorduğu anahtar buydu): clockworks/tiktok-scraper ve profile/comments scraper'ları. Video başına ~$0,0037. Ücretsiz plan ayda $5 kredi veriyor. Token, ortam ayarlarına `APIFY_TOKEN` olarak eklenir. Anahtar kelime araması, video izlenmesi ve yorumlar için gerekir.
+11. Anthropic API anahtarı: Araştırma için gerekmez. Otomatik radar için Claude Code rutini yeterli. Kendi sunucunda LLM kullanacaksan `ANTHROPIC_API_KEY` gerekir.
 
 ## Ek kullanıcı kısıtları (12 Eki 2026)
 - Yüzünü göstermeyecek. AI ile UGC tarzı içerik (AI etiketi açık, sahte müşteri tanıklığı yok).
@@ -48,4 +50,5 @@ Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → b
 ## TikTok trend radarı (12 Eki 2026)
 - Trend = dağıtım filtresi. Sonrasında gelir, talep ve boşluk filtreleri yine uygulanır.
 - İlk bulgu: Yemek planlama ve tarif kategorisi şu an TikTok'ta organik çalışıyor. Herbi (GB Food #13, 2026-06, ~$15k/ay tahmini Screensdesign, @herbi.app 41k takipçi). NeatEat (ABD Food #9, 2026-07).
+- Dönüşüm de kanıtlı: Herbi **GB Food grossing #3**, NeatEat **ABD Food grossing #5** (Apple RSS, 12 Eki).
 - Kendi hesabıyla büyüme için referans Herbi ve NeatEat. MenuFit creator'larla büyüdü, kalp/video oranı 630.

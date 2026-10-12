@@ -1,7 +1,7 @@
 # Fikir Havuzu
 
 > **GÜNCELLEME (12 Eki 2026, sadece kendi organik içeriği senaryosu):** Yeniden skorlamada sıra şöyle: Değer Tarayıcı 73, Boothie tipi 72, Avrupa MenuFit 70 (maksimum 95). Fark hata payı içinde, **MenuFit tek başına birinci değil.** Karar: **14 günlük paralel içerik testi (Avrupa MenuFit ve Değer Tarayıcı), veri karar verecek.** Detay: [yeniden-skorlama-sadece-organik.md](yeniden-skorlama-sadece-organik.md)
-> **TikTok trend radarı (12 Eki):** Organik trend uygulamaları bulma yöntemleri test edildi. Yemek planlama ve tarif kategorisi şu an organik olarak çalışıyor (Herbi GB, NeatEat ABD). Bu, yemek nişi için olumlu bir kanıt. → [tiktok-trend-uygulama-bulma-yontemleri.md](tiktok-trend-uygulama-bulma-yontemleri.md)
+> **TikTok trend radarı (12 Eki):** Organik trend uygulamaları bulma yöntemleri test edildi. Yemek planlama ve tarif kategorisi şu an organik olarak çalışıyor (Herbi GB, NeatEat ABD). Dönüşüm de kanıtlı: Herbi GB Food grossing #3, NeatEat ABD Food grossing #5. Karşı örnek WayShot: çok viral ama zayıf gelir. Bu, yemek nişi için olumlu bir kanıt. → [tiktok-trend-uygulama-bulma-yontemleri.md](tiktok-trend-uygulama-bulma-yontemleri.md)
 > **Test hazırlığı:** Rakip içerik analizi → [rakip-icerik-analizi.md](rakip-icerik-analizi.md). 4 hesap ve 20 slayt gösterisi taslağı → [../icerik/test-paketi-14-gun.md](../icerik/test-paketi-14-gun.md)
 
 Tüm fikirlerin durumu tek yerde. Skorlama: [skorlama-ve-secim.md](skorlama-ve-secim.md) (12 Eki 2026, maksimum 80 puan).
