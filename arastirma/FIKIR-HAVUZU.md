@@ -12,6 +12,18 @@ Tüm fikirlerin durumu tek yerde. Detaylar bağlantılı dosyalarda.
 - **Sonraki adım (beklemede):** 14 günlük kod yazmadan içerik testi. Devam ölçütü: 3+ gönderi 50k+ izlenme, 500+ bekleme listesi, %3+ ön sipariş.
 - **Dosyalar:** [karar](karar-tiktok-urun-secimi.md) · [rakip analizi](rakip-analizi-deger-tarayici.md)
 
+## 🆕 Kanıtlanmış fikirler taraması (12 Eki 2026)
+
+Detay: [kanitlanmis-fikirler-taramasi.md](kanitlanmis-fikirler-taramasi.md)
+
+| Fikir | Kanıt | Puan |
+|---|---|---|
+| İslami "Scroll", widget ve odak uygulaması | Hristiyan kümesi ~$1.5M+/ay (6 genç uygulama). İslami "scroll" formatı boş | ⭐⭐⭐⭐⭐ |
+| Ülkeye özel bütçeli yemek planlayıcı (Almanya ve indirim broşürleri) | mise 4 ayda ~$300k/ay, Food kategorisinde ilk 10'da 5 yeni uygulama | ⭐⭐⭐⭐⭐ |
+| Hobi AI koçu (fotoğraf → desen/plan) | Strum ~$250k/ay, Sewpal, Loopsy, WoodSense | ⭐⭐⭐⭐ |
+| "Sana borçlu oldukları parayı bul" (AB versiyonu) | Settlemate, PayMe, Payout (ABD) | ⭐⭐⭐ |
+| AI evcil hayvan portresi | Pet Plus Us, TrustMRR doğrulanmış $25k/30 gün | ⭐⭐⭐ |
+
 ## Diğer adaylar (önceki taramalardan)
 
 | Fikir | Durum | Dosya |
