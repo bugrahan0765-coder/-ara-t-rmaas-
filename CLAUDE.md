@@ -35,3 +35,4 @@ Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → b
 - **Seçilen: Avrupa'nın MenuFit'i** (restoranda hedefe göre ne sipariş edilir, İngiltere öncelikli). Bakınız `arastirma/FINAL-dogrulanmis-fikir.md`.
 - Yedek 1: AI Değer Tarayıcı. Yedek 2: Hobi AI koçu.
 - Sıradaki adım: 14 günlük yüzsüz içerik testi.
+- **Son karar: GO (koşullu).** Kapsam İngiltere restoran + meal deal + GLP-1 modu. Bakınız `arastirma/FINAL-derin-analiz-ve-karar.md`. Kritik açık konular: veritabanı hakkı için avukat görüşü, yüzsüz içerik dönüşümü (test).

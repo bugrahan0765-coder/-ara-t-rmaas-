@@ -7,7 +7,8 @@ Tüm fikirlerin durumu tek yerde. Skorlama: [skorlama-ve-secim.md](skorlama-ve-s
 - **Neden:** ABD lideri MenuFit tahminen ~$850k/ay (Screensdesign), Health #44, 14 ayda 54k değerlendirme, organik kurucu içeriğiyle büyüdü. **GB, DE, FR ve TR listelerinde yok**, sadece İngilizce, DE puanı 3.79. AB'de 10+ klon var ama hepsi 0-31 değerlendirmede.
 - **Talep:** GB'de "what to order at mcdonalds on a calorie deficit / on glp-1", DE'de "kalorienarm bei burger king/kfc/subway…".
 - **Veri:** İngiltere'de 2022'den beri zincirlere kalori etiketi zorunlu.
-- **Detay:** [FINAL-dogrulanmis-fikir.md](FINAL-dogrulanmis-fikir.md)
+- **Detay:** [FINAL-dogrulanmis-fikir.md](FINAL-dogrulanmis-fikir.md) · **Derin analiz ve son karar (GO, koşullu):** [FINAL-derin-analiz-ve-karar.md](FINAL-derin-analiz-ve-karar.md)
+- **Netleşen kapsam:** İngiltere'de zincir restoran + **market meal deal** + **GLP-1 modu**. Ana veri mekanizması: kullanıcının menü fotoğrafı (yasal kcal) + Open Food Facts. Almanya'da 'Dönerbox' serisi.
 - **Sonraki adım:** 14 günlük yüzsüz içerik testi (GB EN + DE).
 
 ## 🥈 Yedek 1: AI Değer Tarayıcı (67/80)
