@@ -1,5 +1,7 @@
 # Fikir Havuzu
 
+> **GÜNCELLEME (12 Eki 2026, sadece kendi organik içeriği senaryosu):** Yeniden skorlamada sıra şöyle: Değer Tarayıcı 73, Boothie tipi 72, Avrupa MenuFit 70 (maksimum 95). Fark hata payı içinde, **MenuFit tek başına birinci değil.** Karar: **14 günlük paralel içerik testi (Avrupa MenuFit ve Değer Tarayıcı), veri karar verecek.** Detay: [yeniden-skorlama-sadece-organik.md](yeniden-skorlama-sadece-organik.md)
+
 Tüm fikirlerin durumu tek yerde. Skorlama: [skorlama-ve-secim.md](skorlama-ve-secim.md) (12 Eki 2026, maksimum 80 puan).
 
 ## ✅ FİNAL SEÇİM: Avrupa'nın MenuFit'i — "hedefine göre restoranda ne sipariş etmeli?" (İngiltere öncelikli)

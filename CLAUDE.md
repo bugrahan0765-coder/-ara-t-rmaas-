@@ -37,3 +37,7 @@ Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → b
 - Yedek 1: AI Değer Tarayıcı. Yedek 2: Hobi AI koçu.
 - Sıradaki adım: 14 günlük yüzsüz içerik testi.
 - **Son karar: GO (koşullu).** Kapsam İngiltere restoran + meal deal + GLP-1 modu. Bakınız `arastirma/FINAL-derin-analiz-ve-karar.md`. Kritik açık konular: veritabanı hakkı için avukat görüşü, yüzsüz içerik dönüşümü (test). Creator programı kapsam dışı (kullanıcı reddetti). MenuFit strateji analizi: `arastirma/menufit-icerik-ve-strateji-analizi.md`.
+
+## Güncel karar (12 Eki 2026, sadece kendi organik içeriği)
+- Yeniden skorlama (`arastirma/yeniden-skorlama-sadece-organik.md`): Değer Tarayıcı 73, Boothie tipi 72, Avrupa MenuFit 70. Başa baş.
+- Sıradaki adım: **14 günlük paralel kodsuz içerik testi**: Avrupa MenuFit (İngiltere) ve Değer Tarayıcı. Kazanana geç. İkisi de geçemezse Boothie tipi (kanalı kanıtlı) devreye girer.
