@@ -90,3 +90,35 @@ Yani "boşluk" (kıtlık) ölçütü listelere dayalı yöntemlerle artık bulun
 - Şeytanın avukatının modeli: sadece organik içerikle 6–12 ayda gerçekçi gelir **$1–3k/ay**.
 
 **Benim kararım:** Katılıyorum. **Elendi.**
+
+## 9. Aday 3: Agentic trend uygulama stüdyosu → ŞEYTANIN AVUKATI: FIRSAT DEĞİL (55/95)
+**Şeytanın avukatının bulguları (TrustMRR birincil verisi):**
+- **Boothie'nin büyümesi ~12 "persona" hesaptan geldi.** Kendi marka hesabı neredeyse yok (8 takipçi). Bu mekanizma, kullanıcının kendi kuralıyla (şeffaf marka hesabı, sahte kullanıcı yok) yasak. Ayrıca FTC 16 CFR 465 riski taşıyor.
+  - **Bu, önceki "Boothie tipi = kısıta uygun dağıtım kanıtı" (K9=5, skor 72) varsayımını düzeltir. Kanıt kısıta uygun değil.**
+- **Depuff AI "dayanıklı" değil.** Aylık gelir Ocak 2026'da $152k ile zirve yaptı, Eylül'de $37,7k'ya indi (-%75). Önceki "+%10,9" yorumum kısa vadeli gürültüydü. **Düzeltildi.**
+- **Taban oranlar kötü:**
+  - TrustMRR'da TikTok kanalını işaretlemiş 552 girişim var. Bunların sadece ~%5'i tüm zamanlarda $117k'yı aşmış.
+  - RevenueCat kullanan girişimlerde medyan tüm zaman geliri **$377**.
+  - Lansman başına ≥$20k/ay zirve olasılığı %3–8 (tahmin).
+- **Platform:**
+  - Apple 4.3(b): trend kopyalayan varyantlar yasak.
+  - 4.3(a): tek hesap tüm portföy için tek kırılma noktası.
+  - TikTok: koordineli davranış, gençleri gösteren AIGC yasağı.
+- **Beklenen 1. yıl neti ≈ $2–3k/ay** (model).
+
+**Benim kararım:** Katılıyorum. **Elendi.**
+
+## 10. SONUÇ (dürüst): Kısıt setiyle "büyük ve kanıtlı" fırsat masa başında bulunamadı
+- 3 tez şeytanın avukatından geçmedi (41, 58, 55). 5 aile de benim tarafımdan elendi.
+- Hepsinde aynı **yapısal neden** var:
+  1. **Kanıtı görünen her niş haftalar içinde klonlanıyor** (Vintly 3,5 hafta, PokéItem 4 ay, 10–33 dile çevrilmiş klonlar).
+  2. **Doğrulanmış kazananların büyüme mekanizması kısıt dışında:**
+     - Persona hesaplar: Boothie.
+     - Ücretli reklam: GoTall, UCHAD, Dailyglowup (2–3x ROAS), AbMaxx.
+     - ASO: PokéItem, Collectr.
+     - Uzman veya kurucu yüzü: Solid Starts, BLW Ideas, MenuFit.
+  3. **Şeffaf, yüzsüz marka hesapları "vuruş" bazlı çalışıyor.** Medyan izlenmeleri düşük: WayShot 3,8k, Herbi 1,7k, HoloDex 2,5k.
+     - İstisna, **bilgi karuselleri** yapan hesaplar. Bunların medyanı istikrarlı: BabyPlate 11,8k, Wolf of Washington 9,1k, MenuFit kendi hesabı 7,9k, ServicePerks 7,8k.
+- **Sonuç:** Bu kısıtlarla belirleyici değişken **ürün değil, kurucunun kendi içerik-pazar uyumu**. Bu masa başında kanıtlanamaz, sadece test edilebilir. Üç şeytanın avukatı raporu da bağımsız olarak aynı öneride birleşti: kod yazmadan 14 günlük içerik testi, net eşiklerle.
+
+**Kullanıcıya açık karar sorusu:** Verideki en büyük kaldıraç, küçük bir ücretli dağıtım bütçesi (Apple Search Ads ya da kendi içeriğini öne çıkarma). Kullanıcı sermaye koyabileceğini söyledi ama "reklam yok" dedi. Bu kısıt gevşerse aday havuzu ve skorlar değişir.

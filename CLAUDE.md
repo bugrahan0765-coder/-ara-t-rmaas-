@@ -56,3 +56,10 @@ Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → b
 - İlk bulgu: Yemek planlama ve tarif kategorisi şu an TikTok'ta organik çalışıyor. Herbi (GB Food #13, 2026-06, ~$15k/ay tahmini Screensdesign, @herbi.app 41k takipçi). NeatEat (ABD Food #9, 2026-07).
 - Dönüşüm de kanıtlı: Herbi **GB Food grossing #3**, NeatEat **ABD Food grossing #5** (Apple RSS, 12 Eki).
 - Kendi hesabıyla büyüme için referans Herbi ve NeatEat. MenuFit creator'larla büyüdü, kalp/video oranı 630.
+
+## Fırsat araştırması v2 (12 Eki 2026) — SONUÇ
+- Birleşik hat v2 (12 ülke × 22 kategori, ~1.000 uygulama TikTok embed, TrustMRR kalibrasyonu, yerelleştirme boşluğu, çok dilli talep) + 3 şeytanın avukatı. Detay: `arastirma/FIRSAT-v2.md`, yöntemler: `arastirma/yontem-sentezi-v2.md`.
+- Elenenler: Bebek ek gıda DACH (41/95), TCG uygulaması (58/95), trend uygulama stüdyosu (55/95). Tarif kaydetme, AI arkadaş, Vinted araçları, Depuff yerelleştirme de elendi.
+- DÜZELTMELER: Boothie'nin büyümesi persona hesaplardan (kısıt dışı; önceki 72 puan fazla). Depuff AI zirveden -%75. Screensdesign ~10x yanılabiliyor. Web arama özetleri rakamda güvenilmez (PokeScreener).
+- Ana ders: Kanıtı görünen nişler haftalar içinde klonlanıyor. Kısıt setiyle belirleyici değişken kurucunun kendi içerik-pazar uyumu. Şeffaf yüzsüz hesaplarda istikrarlı medyan sadece BİLGİ KARUSELLERİNDE görülüyor.
+- Açık karar: Kullanıcı küçük ücretli dağıtım bütçesine izin verir mi? Yoksa 14 günlük içerik testi mi?
