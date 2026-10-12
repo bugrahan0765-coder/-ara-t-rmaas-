@@ -12,7 +12,14 @@
 7. **Şeytanın avukatı:** Bağımsız alt agent ile çürütme denemesi.
 
 ## 2. Bulunan aday aileleri (organik TikTok ve dönüşüm birlikte)
-(doldurulacak)
+| Aile | Örnekler (kazanç sırası / TikTok) | Bizim kısıtımıza uyum | Not |
+|---|---|---|---|
+| **Bebek ek gıda / BLW** | Solid Starts (EN; US Ed #32, GB #12, NL #15, DE #67; TikTok 360k). BabyPlate (EN, PL şirketi; ES Food #38; **yüzsüz slayt gösterileri 184k ve 123k**). Cuisinez pour bébé (FR Food #7; TikTok 202k; 700k indirme, kendi beyanı). BLW Ideas (ES Food **#2**). Svezzy (IT Food #10). Beikost App (DE Food #25, sadece 118 değerlendirme) | ✅ Yüzsüz slayt kanıtı var (BabyPlate). Yerel dilde kazanan var, Almanya'da güçlü bir uygulama yok | Ana aday, bkz. 4 |
+| Sosyal medyadan kaydetme (tarif, seyahat) | Avocadish (DE Food #2, en yüksek video 3,5M). GoomY (FR Food #6, 972k). CookNest (ES #8). Herbi (GB #3). mio travel, itinio (ES Travel #20, 690k) | ✅ İçerik TikTok'un kendisinden geliyor | Her ülkede yerel oyuncu zaten var |
+| AI yüz/vücut analizi (depuff, renk analizi) | Depuff AI (TrustMRR **$59k MRR**, sadece EN, DE/FR/ES/MX'te çok değerlendirme) | ✅ Görsel "sonuç ortaya çıkma" anı | Trend riski, beden imajı, iddia riski |
+| AI arkadaş / "book boyfriend" | Heyyyy (US Ent #43; video başına ortanca **1M** izlenme, slayt + POV) | ✅ Yüzsüz | Reşit olmayan kullanıcı ve AI arkadaş regülasyonu riski çok yüksek |
+| Yerel AI öğrenme (KI-Lernapp) | Retain Cards, Studyflash, Astra AI (DE) | Kısmen | Doymaya yakın |
+| Yüzsüz veri slaytları | Sanity (NYC sağlık denetimi, 10/10 slayt), Wolf of Washington, ServicePerks | ✅ Tamamen ajanla otomatik | Gelir kanıtı zayıf |
 
 ## 3. Gelir kalibrasyonu (yeni bulgu)
 | Uygulama | TrustMRR (doğrulanmış) son 30 gün | 12 ülkede kazanç listesi (ilk 100) |

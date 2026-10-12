@@ -1,7 +1,7 @@
 import json, sys, re, threading
 from concurrent.futures import ThreadPoolExecutor
 sys.path.insert(0, '.')
-import tt
+import tiktok_embed as tt
 
 src, out = sys.argv[1], sys.argv[2]
 apps = json.load(open(src))

@@ -30,6 +30,7 @@ Bu repo, kullanıcının agentic AI ile para kazanma araştırmasının kalıcı
 
 ## Ek kullanıcı kısıtları (12 Eki 2026)
 - Yüzünü göstermeyecek. AI ile UGC tarzı içerik (AI etiketi açık, sahte müşteri tanıklığı yok).
+- **Pazarlama kanalı: TikTok + Instagram organik** (12 Eki 2026'da teyit edildi). AI içerik ve karusel/slayt gösterisi serbest.
 - **Reklam bütçesi yok, sadece organik.** Pazarı veri seçecek, format serbest.
 - **Creator ve influencer ile ÇALIŞMAYACAK** (gelir paylaşımlı dahil). Tüm içeriği kendisi üretecek. Bunu bir daha önerme.
 
@@ -46,6 +47,9 @@ Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → b
 - Yeniden skorlama (`arastirma/yeniden-skorlama-sadece-organik.md`): Değer Tarayıcı 73, Boothie tipi 72, Avrupa MenuFit 70. Başa baş.
 - Sıradaki adım: **14 günlük paralel kodsuz içerik testi**: Avrupa MenuFit (İngiltere) ve Değer Tarayıcı. Kazanana geç. İkisi de geçemezse Boothie tipi (kanalı kanıtlı) devreye girer.
 - Test paketi hazır: `icerik/test-paketi-14-gun.md` (A: @ukmacromenu, @mealdealmacros. B: @whatsitworth.uk, @worthscanuk). Rakip içerik verisi: `arastirma/rakip-icerik-analizi.md`. Tüm kcal ve fiyat değerleri resmi kaynaktan doldurulacak, uydurma sayı yok.
+
+## Karar ölçütü (kullanıcı, 12 Eki 2026)
+- Ancak hem ben hem de şeytanın avukatı alt agent'ı "gerçekten büyük fırsat" diyebilirsek durulur.
 
 ## TikTok trend radarı (12 Eki 2026)
 - Trend = dağıtım filtresi. Sonrasında gelir, talep ve boşluk filtreleri yine uygulanır.
