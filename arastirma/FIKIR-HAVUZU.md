@@ -1,34 +1,38 @@
 # Fikir Havuzu
 
-Tüm fikirlerin durumu tek yerde. Detaylar bağlantılı dosyalarda.
+Tüm fikirlerin durumu tek yerde. Skorlama: [skorlama-ve-secim.md](skorlama-ve-secim.md) (12 Eki 2026, maksimum 80 puan).
 
-## 🟡 Fikir #1: AI Değer Tarayıcı ("Bu kaç para eder?"), beklemede
+## ✅ SEÇİLEN: AI Değer Tarayıcı (67/80)
 
-- **Ne:** Fotoğraf → ürün tanıma → tahmini satış değeri → nerede satılır → hazır ilan.
-- **Neden seçildi:** TikTok'a en uygun (ürünün çıktısı içeriğin kendisi), kalıcı ihtiyaç, kullanıcının reseller deneyimi.
-- **Kanıt:** Kategori kazandırıyor. ThriftAI (tek geliştirici, Danimarka) 16 ayda ~$60k/ay (tahmin). AntiqSnap 8 ayda ~$350k/ay. Curio ~$100k/ay.
-- **Riskler:** 40+ klon, Avrupa'da da var. Meta Seller ve eBay ücretsiz fiyat önerisi veriyor. Ürün eşit seviyede, fark dağıtımdan gelmeli.
-- **Boşluk:** Rakiplerin organik TikTok varlığı çok zayıf (en büyüğü SellRaze, 16k). Satıcı tarafı ("evindeki eşyalar kaç para?") alıcı tarafından daha geniş bir kitle.
-- **Sonraki adım (beklemede):** 14 günlük kod yazmadan içerik testi. Devam ölçütü: 3+ gönderi 50k+ izlenme, 500+ bekleme listesi, %3+ ön sipariş.
-- **Dosyalar:** [karar](karar-tiktok-urun-secimi.md) · [rakip analizi](rakip-analizi-deger-tarayici.md)
+- **Ne:** Fotoğraf → ürün tanıma → tahmini satış değeri (Vinted, Kleinanzeigen, eBay, Leboncoin) → nerede satılır → hazır ilan.
+- **Farklılaşma:** Kurucu anlatımlı organik TikTok + satıcı tarafı ("evindeki eşyalar kaç para?") + Avrupa çoklu platform.
+- **Kanıtlar:**
+  - ThriftAI ABD #4 / DE #9 / GB #7 / FR #13 (~$60k/ay tahmin).
+  - Vinted AI ilan uygulamaları AB listelerinde.
+  - Arama talebinde 1. tema.
+- **Ana risk:** Dar boşluk (40+ klon, Meta Seller ve eBay ücretsiz). Fark dağıtımdan gelmeli.
+- **Sonraki adım:** 14 günlük kod yazmadan içerik testi. Ölçütler: 3+ gönderi 50k+ izlenme, 500+ bekleme listesi, %3+ ön sipariş.
+- **Dosyalar:** [karar](karar-tiktok-urun-secimi.md) · [rakip analizi](rakip-analizi-deger-tarayici.md) · [skorlama](skorlama-ve-secim.md)
 
-## 🆕 Kanıtlanmış fikirler taraması (12 Eki 2026)
+## 🥈 Yedek: Hobi AI koçu (60/80)
 
-Detay: [kanitlanmis-fikirler-taramasi.md](kanitlanmis-fikirler-taramasi.md)
+Strum (~$250k), Sewpal, Loopsy, WoodSense. Niş seçimi için rakip taraması gerekli. [kanıtlanmış fikirler](kanitlanmis-fikirler-taramasi.md)
 
-| Fikir | Kanıt | Puan |
-|---|---|---|
-| İslami "Scroll", widget ve odak uygulaması | Hristiyan kümesi ~$1.5M+/ay (6 genç uygulama). İslami "scroll" formatı boş | ⭐⭐⭐⭐⭐ |
-| Ülkeye özel bütçeli yemek planlayıcı (Almanya ve indirim broşürleri) | mise 4 ayda ~$300k/ay, Food kategorisinde ilk 10'da 5 yeni uygulama | ⭐⭐⭐⭐⭐ |
-| Hobi AI koçu (fotoğraf → desen/plan) | Strum ~$250k/ay, Sewpal, Loopsy, WoodSense | ⭐⭐⭐⭐ |
-| "Sana borçlu oldukları parayı bul" (AB versiyonu) | Settlemate, PayMe, Payout (ABD) | ⭐⭐⭐ |
-| AI evcil hayvan portresi | Pet Plus Us, TrustMRR doğrulanmış $25k/30 gün | ⭐⭐⭐ |
+## Diğer fikirler (puan sırasıyla)
 
-## Diğer adaylar (önceki taramalardan)
-
-| Fikir | Durum | Dosya |
-|---|---|---|
-| Avrupa Flipify (fırsat alarmı) | Elenmedi, scraping riski var | [trustmrr taraması](trustmrr-chrome-shopify-taramasi.md) |
-| Almanya için Margeo (satıcı vergi ve kâr) | TikTok'a uygun değil | [pazaryeri adayları](pazaryeri-saas-adaylari.md) |
-| Niş sertifika sınav hazırlığı | TikTok'a uygun değil | [trustmrr taraması](trustmrr-chrome-shopify-taramasi.md) |
-| Kalıcı ihtiyaç + kamera + AI (Nutria tipi) | Niş seçilmeli | [tiktok taraması](tiktok-b2c-uygulama-taramasi.md) |
+| Puan | Fikir | Durum | Dosya |
+|---|---|---|---|
+| 57 | Kalori/diyet kamera (Nutria tipi) | Elendi: devler var | [tiktok taraması](tiktok-b2c-uygulama-taramasi.md) |
+| 57 | Trend estetik fotoğraf (Boothie tipi) | Elendi: trend riski | [trustmrr](trustmrr-chrome-shopify-taramasi.md) |
+| 56 | AI evcil hayvan portresi | Beklemede | [kanıtlanmış](kanitlanmis-fikirler-taramasi.md) |
+| 56 | Vampir Köylü AI anlatıcı | Beklemede | [trustmrr](trustmrr-chrome-shopify-taramasi.md) |
+| 55 | İslami Scroll, odak ve widget | Derin analiz yapıldı: formatlar dolu, TR doymuş | [derin analiz](derin-analiz-islami-uygulama.md) |
+| 55 | Ülkeye özel yemek planlayıcı | Derin analiz yapıldı: AB çok kalabalık | [derin analiz](derin-analiz-yemek-planlayici.md) |
+| 55 | Niş tanıyıcı (pul, LEGO) | Beklemede | [yeni yöntemler](yeni-yontemler-taramasi.md) |
+| 53 | Vize asistanı (TR) | Beklemede | [yeni yöntemler](yeni-yontemler-taramasi.md) |
+| 52 | Avrupa Flipify | Elendi: scraping riski | [trustmrr](trustmrr-chrome-shopify-taramasi.md) |
+| 51 | Niş sınav hazırlığı | Elendi: TikTok'a uyumsuz | [trustmrr](trustmrr-chrome-shopify-taramasi.md) |
+| 51 | Camiler için canlı çeviri | Beklemede | [trustmrr](trustmrr-chrome-shopify-taramasi.md) |
+| 50 | Stok/beden alarmı | Beklemede | [yeni yöntemler](yeni-yontemler-taramasi.md) |
+| 47 | AB "sana borçlu oldukları para" | Elendi: hukuki karmaşıklık | [kanıtlanmış](kanitlanmis-fikirler-taramasi.md) |
+| 44 | Almanya için Margeo | Elendi | [pazaryeri](pazaryeri-saas-adaylari.md) |
