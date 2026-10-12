@@ -24,5 +24,14 @@ Bu repo, kullanıcının agentic AI ile para kazanma araştırmasının kalıcı
 6. Arama talebi: `suggestqueries.google.com` otomatik tamamlama ("is there an app that…"). Google Trends 429 veriyor.
 7. TikTok profil sayıları: `tiktok.com/@handle` HTML içinde followerCount. Hashtag sayfaları çalışmıyor.
 
-## Mevcut karar (12 Eki 2026)
-- Seçilen: **AI Değer Tarayıcı** (67/80). Yedek: Hobi AI koçu (60/80). Sıradaki adım: 14 günlük içerik testi.
+## Ek kullanıcı kısıtları (12 Eki 2026)
+- Yüzünü göstermeyecek. AI ile UGC tarzı içerik (AI etiketi açık, sahte müşteri tanıklığı yok).
+- **Reklam bütçesi yok, sadece organik.** Pazarı veri seçecek, format serbest.
+
+## Birleşik doğrulama hattı (FINAL turunda kullanıldı)
+Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → büyüme hızı → site üzerinden TikTok takipçisi → Screensdesign geliri → coğrafi boşluk → otomatik tamamlama talebi → AB rakip araması → vaka ve kanal doğrulaması → veri ve hukuk.
+
+## Mevcut karar (12 Eki 2026, FINAL)
+- **Seçilen: Avrupa'nın MenuFit'i** (restoranda hedefe göre ne sipariş edilir, İngiltere öncelikli). Bakınız `arastirma/FINAL-dogrulanmis-fikir.md`.
+- Yedek 1: AI Değer Tarayıcı. Yedek 2: Hobi AI koçu.
+- Sıradaki adım: 14 günlük yüzsüz içerik testi.
