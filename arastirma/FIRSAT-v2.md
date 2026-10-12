@@ -32,3 +32,42 @@
 | Imposter AI | $18.904 | Hiçbirinde yok |
 
 **Sonuç:** Ayda $30-85k kazanan uygulamalar bile ABD Health ve Photo ilk 100'üne giremiyor. Yani ABD veya GB'de Health, Education ya da Medical ilk 100'ünde olmak **çok büyük gelir** demek. Food ve Lifestyle gibi kategorilerde eşik daha düşük. **Önceki "MenuFit ABD Health #47" yorumu da bu yüzden büyük gelire işaret ediyor.**
+
+## 4. Aday 1: Bebek ek gıda / BLW (DACH) → ŞEYTANIN AVUKATI: FIRSAT DEĞİL (41/95)
+**Lehte kanıtlar:**
+- Solid Starts sadece İngilizce, ama birçok ülkede Education kazanç listesinde: US #32, GB #12, NL #15, DE #67, CH #42. DE'de 1.707 değerlendirmesi var. Fiyatı $99,99/yıl.
+- BabyPlate yüzsüz slayt gösterileriyle 184k ve 123k izlenme aldı.
+- Yerel liderler kendi ülkelerinde kazanç listesinde: Cuisinez pour bébé FR #7, BLW Ideas ES #2, Svezzy IT #10.
+
+**Şeytanın avukatının çürüttükleri (bağımsız kontrol):**
+- DE'de en az 8 Almanca rakip var. **Nica** (Mart 2026, €69,99/yıl) tezin aynısı.
+- Almanca yüzsüz hesaplar başarısız: Grubsy 94 takipçi, GrowwW 1, @breifreibaby 1,6k. DE'nin bilinen uzmanı bile TikTok'ta 143 takipçide.
+- AB kazananları Instagram'da ve **uzman yüzüyle** büyüyor.
+- TikTok kuralı: gerçek bir gencin benzerliğini taşıyan AI içeriği, etiketli olsa bile yasak.
+- Kullanım süresi 6–12 ay, bu yüzden her yıl tüm müşteri tabanını yeniden kazanmak gerekiyor. DACH'ta yılda ~800k doğum var, ama kategori top-100 free listesine bile girmiyor.
+- Ürün sorumluluğu: AB 2024/2853 yönergesi yazılım ve AI'ı kapsıyor. MDR sınırında kalıyor, sağlık verisi GDPR Art. 9 kapsamında.
+
+**Benim kararım:** Şeytanın avukatına katılıyorum. **Elendi.**
+
+## 5. Elenen diğer aileler (bu tur)
+| Aile | Neden elendi |
+|---|---|
+| Tarif/ilham kaydetme | 12 ülkenin hepsinde 120+ genç uygulama kazanç listesinde. Her ülkede yerel kazanan var. Aşırı doymuş |
+| AI arkadaş / book boyfriend (Heyyyy) | Organik sinyal çok güçlü (video başına ortanca 1M izlenme). Ama 17+ AI arkadaş pazarı çok kalabalık: Sakura 22k, EVA 24k, Soulplay 12k, Him 1,5k değerlendirme. Reşit olmayan kullanıcı ve regülasyon riski var |
+| Vinted satıcı AI araçları | PreLoved, Vintly, Vendly, VintSnap ve 10+ rakip var. AB Shopping kazanç eşikleri çok düşük: listedekilerin sadece 7–39 değerlendirmesi var, yani gelir küçük |
+| TCG tarayıcı yerelleştirmesi | DE/IT/ES aramalarında ilk sıralar zaten 10–33 dile çevrilmiş klonlarla dolu |
+| Depuff tipi yerelleştirme | Doğrulanmış $59k MRR, ama yüzsüz içerikte AI "önce/sonra" görseli yanıltıcı ticari uygulama (UCPD) riski taşıyor |
+
+## 6. Bu turun ana dersi (yeni ilke)
+**2026'da gelir kanıtı görünen her niş haftalar içinde klonlanıyor.**
+- Vintly: çıkışından 3,5 hafta sonra 5 ülkenin kazanç listesinde.
+- PokéItem: 4 ayda FR #1.
+- Klonlar 10–33 dile çevrilmiş halde geliyor.
+
+Yani "boşluk" (kıtlık) ölçütü listelere dayalı yöntemlerle artık bulunamaz. Listede göründüğü anda doluyor. Geriye kalan avantajlar:
+1. **Dağıtım:** kendi organik içerik makinesi.
+2. **Kurucu avantajı:** alan bilgisi, gerçek veri.
+3. **Büyük ve genişleyen pazar:** Yeni girenlerin hâlâ kazandığı pazarlar. Kanıt: HoloDex (2025-09) 13 ayda tahmini ~$250k/ay. Herbi, NeatEat ve BabyPlate de birkaç ayda listeye girdi.
+
+## 7. Bir doğrulama düzeltmesi
+- Web araması özeti PokeScreener için "30 günde $130k" demişti. TrustMRR'ın birincil verisi: **son 30 gün $574.** Web arama özetleri rakam konusunda güvenilmez. Rakamlar sadece birincil kaynaktan alınacak.
