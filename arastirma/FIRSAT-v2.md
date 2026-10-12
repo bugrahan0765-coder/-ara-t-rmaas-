@@ -71,3 +71,22 @@ Yani "boşluk" (kıtlık) ölçütü listelere dayalı yöntemlerle artık bulun
 
 ## 7. Bir doğrulama düzeltmesi
 - Web araması özeti PokeScreener için "30 günde $130k" demişti. TrustMRR'ın birincil verisi: **son 30 gün $574.** Web arama özetleri rakam konusunda güvenilmez. Rakamlar sadece birincil kaynaktan alınacak.
+
+## 8. Aday 2: TCG (Pokémon) koleksiyoncu uygulaması → ŞEYTANIN AVUKATI: FIRSAT DEĞİL (58/95)
+**Lehte:**
+- Pazar çok büyük. HoloDex 2025-09'da çıktı ve 13 ayda US Ref #14–16'ya, NL #1–2'ye yükseldi; geliri tahminen ~$250k/ay (Screensdesign). Collectr tahminen ~$650k/ay.
+- FoilSnap: ES #2, IT #2–3, DE #3–5.
+- PokéItem 4 ayda FR #1 oldu.
+- Talep tüm dillerde güçlü: Google otomatik tamamlamada "uygulama ile Pokémon kart değeri".
+
+**Aleyhte (bağımsız kontrol):**
+- Her ülkenin Reference ilk 100'ünde 10–15 TCG tarayıcısı var. 2026'da en az 6 yeni klon çıktı.
+- **Ücretsiz eBay tarayıcısı + Price Guide** (İngiltere'de Eylül 2026'dan beri) ve ücretsiz TCGplayer tarayıcısı temel vaadi değersizleştiriyor. Aramaların yarısı "kostenlos/gratis".
+- **Kazananlar TikTok ile büyümemiş.** PokéItem ASO ile FR #1 oldu. Collectr ve FoilSnap'in TikTok'u zayıf. Viral videolar tek seferlik.
+- Veri ve platform engelleri:
+  - Cardmarket ve TCGplayer API'leri yeni başvuru almıyor.
+  - Pokémon marka riski var: Apple 4.1 reddi, Pokellector davası.
+  - Modern kartlarda %20–50 fiyat düzeltmesi var (hype döngüsü).
+- Şeytanın avukatının modeli: sadece organik içerikle 6–12 ayda gerçekçi gelir **$1–3k/ay**.
+
+**Benim kararım:** Katılıyorum. **Elendi.**
