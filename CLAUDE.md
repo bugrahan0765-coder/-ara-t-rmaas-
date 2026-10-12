@@ -41,3 +41,4 @@ Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → b
 ## Güncel karar (12 Eki 2026, sadece kendi organik içeriği)
 - Yeniden skorlama (`arastirma/yeniden-skorlama-sadece-organik.md`): Değer Tarayıcı 73, Boothie tipi 72, Avrupa MenuFit 70. Başa baş.
 - Sıradaki adım: **14 günlük paralel kodsuz içerik testi**: Avrupa MenuFit (İngiltere) ve Değer Tarayıcı. Kazanana geç. İkisi de geçemezse Boothie tipi (kanalı kanıtlı) devreye girer.
+- Test paketi hazır: `icerik/test-paketi-14-gun.md` (A: @ukmacromenu, @mealdealmacros. B: @whatsitworth.uk, @worthscanuk). Rakip içerik verisi: `arastirma/rakip-icerik-analizi.md`. Tüm kcal ve fiyat değerleri resmi kaynaktan doldurulacak, uydurma sayı yok.
