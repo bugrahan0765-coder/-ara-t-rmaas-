@@ -63,3 +63,9 @@ Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → b
 - DÜZELTMELER: Boothie'nin büyümesi persona hesaplardan (kısıt dışı; önceki 72 puan fazla). Depuff AI zirveden -%75. Screensdesign ~10x yanılabiliyor. Web arama özetleri rakamda güvenilmez (PokeScreener).
 - Ana ders: Kanıtı görünen nişler haftalar içinde klonlanıyor. Kısıt setiyle belirleyici değişken kurucunun kendi içerik-pazar uyumu. Şeffaf yüzsüz hesaplarda istikrarlı medyan sadece BİLGİ KARUSELLERİNDE görülüyor.
 - Açık karar: Kullanıcı küçük ücretli dağıtım bütçesine izin verir mi? Yoksa 14 günlük içerik testi mi?
+- **DÜZELTME (kullanıcı itirazı sonrası):** "Kısıta uygun dağıtım kanıtı yok" sonucu YANLIŞ. Hatalarım:
+  1. Marka hesaplarını medyanla ölçtüm, paylaşım sıklığını görmezden geldim (WayShot haftada 0,4).
+  2. SGE StrongerMobile vakasını unuttum: tek marka hesabı, 725 yüzsüz slayt, ~700k kullanıcı, reklam yok.
+  3. Persona yasağını fazla geniş uyguladım. Yasak olan sahte tanıklık. Şeffaf temalı niş sayfalar serbest.
+  4. Taban oranı yanlış yerde kullandım.
+  - Organik model = hacim × vuruş dağılımı. Adaylar bu modelle yeniden skorlanacak.

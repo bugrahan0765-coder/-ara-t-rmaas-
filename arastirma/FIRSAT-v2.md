@@ -122,3 +122,21 @@ Yani "boşluk" (kıtlık) ölçütü listelere dayalı yöntemlerle artık bulun
 - **Sonuç:** Bu kısıtlarla belirleyici değişken **ürün değil, kurucunun kendi içerik-pazar uyumu**. Bu masa başında kanıtlanamaz, sadece test edilebilir. Üç şeytanın avukatı raporu da bağımsız olarak aynı öneride birleşti: kod yazmadan 14 günlük içerik testi, net eşiklerle.
 
 **Kullanıcıya açık karar sorusu:** Verideki en büyük kaldıraç, küçük bir ücretli dağıtım bütçesi (Apple Search Ads ya da kendi içeriğini öne çıkarma). Kullanıcı sermaye koyabileceğini söyledi ama "reklam yok" dedi. Bu kısıt gevşerse aday havuzu ve skorlar değişir.
+
+## 11. DÜZELTME: Kullanıcının itirazı haklı, analizde yöntem hatası var
+Kullanıcı sordu: "Koskoca dünyada TikTok organik içerikle satış yapan kimse yok mu?" İtiraz haklı. Hatalarım:
+
+1. **Yanlış ölçüm.** Marka hesaplarını "son 12 videonun medyanı" ile değerlendirdim, **paylaşım sıklığını** hesaba katmadım. Düşük medyan bulduğum hesaplar çok az paylaşıyor:
+   - WayShot: haftada 0,4 paylaşım.
+   - Herbi: haftada 0,6.
+   - HoloDex: seyrek.
+   Organik oyun kitabı **hacim × vuruş dağılımı** ile çalışır. Az paylaşan hesabın sonucu bu modeli çürütmez.
+2. **Elimdeki kanıtı unuttum.** SGE vakası **StrongerMobile**: tek ve kendi marka hesabı, 295 günde 725 slayt gösterisi (günde ~2,5), medyan ~7k izlenme, 11 paylaşım 1M+, 24 paylaşım 350k+ → **~700k kullanıcı**, reklam veya creator anılmıyor. Soundmap (18M izlenme) ve Recite (~10M) de var. Bu vakalar `rakip-icerik-analizi.md` C bölümünde zaten kayıtlıydı.
+   - Kısıta uygun dağıtım kanıtı **var**. "Yok" sonucum yanlıştı.
+3. **"Persona" kavramını fazla geniş yasakladım.** Kullanıcının yasağı **sahte müşteri tanıklığı.**
+   - Serbest: Temalı ve şeffaf niş sayfalar. Örneğin "@digicam.looks", bio'sunda "X uygulamasının resmi sayfası" yazar, AI etiketli dönüşümler paylaşır.
+   - Yasak: Gerçek kullanıcı gibi davranıp "bu uygulama hayatımı değiştirdi" demek.
+   - Boothie'nin hesaplarının hangi türde olduğunu doğrulamadım. Şeytanın avukatının "kısıt dışı" yorumu bu ayrımı yapmıyor.
+4. **Taban oran argümanını yanlış yerde kullandım.** "Medyan girişim $377" her iş için geçerli bir oran. Doğru soru "kanıtlı oyun kitabını yüksek hacimde uygulayan biri için olasılık ne?"
+
+**Sonuç:** Şeytanın avukatının üç reddi kısmen benim çerçeveleme hatalarıma dayanıyor (düşük medyan = dağıtım kanıtı yok, Boothie = persona). Özellikle K9 (kısıta uygun dağıtım kanıtı) puanları haksız düşük. Adaylar düzeltilmiş dağıtım modeliyle (hacim: günde 2–3 slayt gösterisi × birden çok şeffaf hesap × 3–6 ay) yeniden skorlanmalı.
