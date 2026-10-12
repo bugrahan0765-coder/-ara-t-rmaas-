@@ -26,6 +26,18 @@ Aylık gelir eğrisi, son 12 aylık doğrulanmış verinin özeti.
 | **Low Content AI** | Amazon KDP için AI ile kitap üretimi, €390-990/yıl | $16.4k | Yatay | Belirtilmemiş | B2C | Amazon'un AI içerik kuralları riskli |
 | **Liinks** | Link-in-bio aracı | $31.9k | 2020'den beri yatay ~$30k | — | Her ikisi | Doymuş (Linktree) |
 
+### Özel vaka: Boothie (Türk kurucu, reklamsız TikTok büyümesi)
+
+- **Ne:** Selfie'yi trend estetiklerde (Canon G7X, Kodak Gold, fotokabin, flaş) yeniden üreten AI fotoğraf uygulaması. Haziran 2026'da iOS'ta, Eylül 2026'da Android'de yayınlandı. Kurucu Türkiye'den.
+- **Gelir (doğrulanmış, RevenueCat):** Haziran $4.7k → Temmuz $27k → Ağustos $43.7k → Eylül $43.6k. MRR $49k, 2.058 abone, **kâr marjı %54** (AI üretim maliyeti yüksek).
+- **Dağıtım:** Kurucuya göre "Para yok, ücretli reklam yok." ABD, Almanya ve Türkiye'de ~12 "persona" TikTok hesabından carousel paylaşımları. Satışa hesaplar, içerik rehberleri ve **içerik üreticileri (generators)** da dahil.
+- **Satılık:** $1.5M (~2.9x yıllık gelir), 14 teklif almış.
+- **Okuma:**
+  - Türkiye'den tek kişinin 4 ayda ~$45k/ay yapabildiğinin kanıtı. Asıl varlık uygulama değil, **içerik üretim makinesi**. Bu makine agent ile otomatikleştirilebilir.
+  - Ama büyüme Ağustos-Eylül'de durdu (son 30 gün -%4) ve kurucu zirvede satıyor. Trend filtre uygulamaları kısa ömürlü olabiliyor, haftalık aboneliklerde abone kaybı yüksek.
+  - "Persona" hesaplar TikTok'un sahte veya yanıltıcı hesap kurallarına takılabilir. Gizli tanıtım da hem kural hem güven riski taşıyor.
+  - "Düşük pazarlama" değil, **ücretsiz ama yoğun emek isteyen pazarlama**. İçerik üretimini otomatikleştirirsen avantaja dönüşür.
+
 ### Uyarı sinyalleri: platform riski gerçek
 
 | Ürün | Eğri | Yorum |
