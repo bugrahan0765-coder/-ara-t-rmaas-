@@ -102,19 +102,9 @@ Sosyal kanıt olarak kurucu, fitness influencer'ı (Jake Rath) ve sporcu (Tommy 
 
 Her paylaşımda zincir adlarıyla hashtag (#greggs #nandos #wetherspoons #mealdeal #caloriedeficit #highprotein), kaydetme çağrısı ve "Yorum'a MENU yaz" DM akışı.
 
-### 7.2 Creator ağı, bütçesiz versiyon
+### 7.2 ~~Creator ağı~~ → KAPSAM DIŞI (kullanıcı kararı)
 
-**Model:** Sadece gelir paylaşımı (ör. ilk yılın ödemelerinin %20-30'u). Peşin ödeme yok.
-
-**İşleyiş:**
-- Kişisel kod + 7 günlük deneme.
-- Atıf, karşılama akışındaki "referans kodu" ekranıyla (RevenueCat ile).
-
-**Hedef creator'lar:** İngiltere'deki 10-100k takipçili fitness koçları, "meal deal" ve Greggs foodie'leri, GLP-1 yolculuğunu paylaşan kullanıcılar.
-
-**Kural:** İngiltere ASA kuralı gereği sponsorlu içerikte "#ad" açıkça yazılmalı. TikTok'un ticari içerik anahtarı açık olmalı. Kilo kaybı oranı vaadi yasak.
-
-> ⚠️ **Karar noktası (kullanıcıya soruldu):** Gelir paylaşımı bir pazarlama maliyeti, ama peşin bütçe gerektirmiyor. "Sadece organik" kısıtıyla uyumlu kabul edilecek mi?
+Kullanıcı creator ve influencer ile çalışmayacak, gelir paylaşımlı dahil. **Tüm içerik kullanıcının kendi ürettiği organik içerik.** MenuFit'in creator katmanı bizde yok. Bunun yerine **kendi hesaplarımızdan çok hesaplı bir içerik makinesi** kurulacak (bakınız 7.5).
 
 ### 7.3 Karşılama ve ödeme duvarı (MenuFit'ten öğren, hatasını tekrarlama)
 
@@ -137,3 +127,30 @@ Kurucu uygulamadan önce "**Healthy Fast Food Secret Menu**" rehberi sattı. Biz
 - Kodlar: [Wethrift – MenuFit](https://www.wethrift.com/codes/menufit.app)
 - İncelemeler: [JustUseApp](https://justuseapp.com/en/app/6746144481/menufit-healthy-eating-out/reviews) · [Marlvel](https://marlvel.ai/apps/com-myhealthymenu-app) · [MWM](https://mwm.ai/apps/menufit-healthy-eating-out/6746144481)
 - GLP-1 trendi ve rakip: [Menu Order AI (App Store)](https://apps.apple.com/us/app/menu-order-ai-find-glp1-meals/id6753690910) · [AOL – Shake Shack GLP-1 menüsü](https://www.aol.com/articles/fast-food-goes-glp-1-191458508.html) · [Fox News](https://www-ak-ms.foxnews.com/food-drink/fast-food-goes-glp-1-shake-shack-latest-roll-out-ozempic-friendly-menu.print)
+
+### 7.5 Sadece kendi organik içeriğimizle dağıtım planı (creator yok, reklam yok)
+
+**Neden mümkün (kanıt):**
+- Bir bağımsız uygulamanın kurucusu **kendi ürettiği 725 slayt gösterisiyle ~700k kullanıcıya** ulaştı (SGE).
+- MenuFit'in kendi marka hesabı (kurucu değil) 23.6k takipçi, 141k beğeni topladı.
+- Format referansı: "low cal + high protein order trivia" 529k izlenme, 17.5k kaydetme.
+
+**Sistem:**
+1. **3 şeffaf marka hesabı** (tek kişi yönetir, agent üretir):
+   - (a) UK Fast Food Macros (zincir siparişleri)
+   - (b) UK Meal Deal Rankings (market paketleri)
+   - (c) GLP-1 Friendly Orders UK
+
+   Her biri ayrı niş ve ayrı kanca setiyle. Hepsi açıkça marka hesabı, sahte kullanıcı yok.
+2. **Hacim:** Hesap başına günde 2-3 slayt gösterisi. Agent zincir × hedef × ürün kombinasyonlarından üretir.
+3. **Aynı içeriği çok kanala dağıt:** TikTok + Instagram Reels/karusel + YouTube Shorts + Pinterest (tarif ve liste içerikleri Pinterest'te uzun ömürlü).
+4. **Funnel:**
+   - "Yorum'a MENU yaz" → otomatik DM (kendi aracımızla)
+   - Bekleme listesi
+   - £4.99 PDF rehber (ön doğrulama)
+5. **Kalıcı organik kanallar:**
+   - **ASO:** "high protein meal deal", "low calorie greggs", "nandos high protein"…
+   - **SEO:** Her zincir için açılış sayfası ("Greggs high protein options 2026"). Otomatik tamamlamada bu sorgular yoğun.
+6. **Ölçüm ve iterasyon:** Haftalık olarak format başına izlenme, kaydetme ve DM tıklama oranına bak. Kazanan formatı çoğalt, kaybedeni bırak.
+
+**Dürüst risk:** MenuFit'in görünürlüğünün büyük kısmı creator'lardan geliyordu. Bizde bu katman olmadığı için büyüme **daha yavaş** olabilir. 14 günlük test tam olarak bunu ölçecek: kendi içeriğimiz tek başına yeterli talep yaratıyor mu?

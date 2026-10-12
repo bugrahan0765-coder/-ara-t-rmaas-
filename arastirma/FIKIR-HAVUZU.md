@@ -8,7 +8,7 @@ Tüm fikirlerin durumu tek yerde. Skorlama: [skorlama-ve-secim.md](skorlama-ve-s
 - **Talep:** GB'de "what to order at mcdonalds on a calorie deficit / on glp-1", DE'de "kalorienarm bei burger king/kfc/subway…".
 - **Veri:** İngiltere'de 2022'den beri zincirlere kalori etiketi zorunlu.
 - **Detay:** [FINAL-dogrulanmis-fikir.md](FINAL-dogrulanmis-fikir.md) · **Derin analiz ve son karar (GO, koşullu):** [FINAL-derin-analiz-ve-karar.md](FINAL-derin-analiz-ve-karar.md)
-- **Rakip strateji analizi:** [menufit-icerik-ve-strateji-analizi.md](menufit-icerik-ve-strateji-analizi.md). Büyüme motoru = creator kodları (#menufitpartner) + 25 adımlık anketli karşılama akışı. Kurucu yüzü şart değil.
+- **Rakip strateji analizi:** [menufit-icerik-ve-strateji-analizi.md](menufit-icerik-ve-strateji-analizi.md). MenuFit'in büyüme motoru creator kodları + anketli karşılama akışı. **Bizde creator yok.** Dağıtım: 3 şeffaf marka hesabı + çok kanal + ASO/SEO (bölüm 7.5).
 - **Netleşen kapsam:** İngiltere'de zincir restoran + **market meal deal** + **GLP-1 modu**. Ana veri mekanizması: kullanıcının menü fotoğrafı (yasal kcal) + Open Food Facts. Almanya'da 'Dönerbox' serisi.
 - **Sonraki adım:** 14 günlük yüzsüz içerik testi (GB EN + DE).
 

@@ -27,6 +27,7 @@ Bu repo, kullanıcının agentic AI ile para kazanma araştırmasının kalıcı
 ## Ek kullanıcı kısıtları (12 Eki 2026)
 - Yüzünü göstermeyecek. AI ile UGC tarzı içerik (AI etiketi açık, sahte müşteri tanıklığı yok).
 - **Reklam bütçesi yok, sadece organik.** Pazarı veri seçecek, format serbest.
+- **Creator ve influencer ile ÇALIŞMAYACAK** (gelir paylaşımlı dahil). Tüm içeriği kendisi üretecek. Bunu bir daha önerme.
 
 ## Birleşik doğrulama hattı (FINAL turunda kullanıldı)
 Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → büyüme hızı → site üzerinden TikTok takipçisi → Screensdesign geliri → coğrafi boşluk → otomatik tamamlama talebi → AB rakip araması → vaka ve kanal doğrulaması → veri ve hukuk.
@@ -35,4 +36,4 @@ Evren (5 ülke × 22 kategori en çok kazandıranlar) → genç kazananlar → b
 - **Seçilen: Avrupa'nın MenuFit'i** (restoranda hedefe göre ne sipariş edilir, İngiltere öncelikli). Bakınız `arastirma/FINAL-dogrulanmis-fikir.md`.
 - Yedek 1: AI Değer Tarayıcı. Yedek 2: Hobi AI koçu.
 - Sıradaki adım: 14 günlük yüzsüz içerik testi.
-- **Son karar: GO (koşullu).** Kapsam İngiltere restoran + meal deal + GLP-1 modu. Bakınız `arastirma/FINAL-derin-analiz-ve-karar.md`. Kritik açık konular: veritabanı hakkı için avukat görüşü, yüzsüz içerik dönüşümü (test), **gelir paylaşımlı creator programı 'organik' kabul edilir mi (kullanıcıya soruldu)**. MenuFit strateji analizi: `arastirma/menufit-icerik-ve-strateji-analizi.md`.
+- **Son karar: GO (koşullu).** Kapsam İngiltere restoran + meal deal + GLP-1 modu. Bakınız `arastirma/FINAL-derin-analiz-ve-karar.md`. Kritik açık konular: veritabanı hakkı için avukat görüşü, yüzsüz içerik dönüşümü (test). Creator programı kapsam dışı (kullanıcı reddetti). MenuFit strateji analizi: `arastirma/menufit-icerik-ve-strateji-analizi.md`.
